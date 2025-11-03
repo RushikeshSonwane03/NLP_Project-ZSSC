@@ -1,0 +1,30 @@
+# 🧠 Python virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# 🧹 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🗂 IDE & editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🧾 OS-specific files
+.DS_Store
+Thumbs.db
+
+# 🧰 Build artifacts
+build/
+dist/
+*.egg-info/
+
+# ⚙️ Streamlit & logs
+.streamlit/
+logs/
